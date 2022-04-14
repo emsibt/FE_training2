@@ -1,0 +1,7 @@
+.search-box{
+    display: flex;
+    flex-direction: column;
+}
+.search-box input{
+    margin: 40px 150px 0 0;
+}
